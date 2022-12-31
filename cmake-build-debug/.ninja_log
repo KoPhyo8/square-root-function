@@ -1,0 +1,7 @@
+# ninja log v5
+1	647	6937675058805016	CMakeFiles/square_root.dir/main.c.obj	dcd711f8921eb01f
+649	1247	6937675064963521	square_root.exe	18d9d5d059ac99eb
+4	420	6937675662319603	CMakeFiles/square_root.dir/main.c.obj	dcd711f8921eb01f
+420	1265	6937675670120725	square_root.exe	18d9d5d059ac99eb
+10	347	6941222394854789	CMakeFiles/square_root.dir/main.c.obj	dcd711f8921eb01f
+348	875	6941222399997225	square_root.exe	18d9d5d059ac99eb
